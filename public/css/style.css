@@ -2,30 +2,36 @@ header {
   font-family: "New Rocker", serif;
   text-align: center;
   border-radius: 10%;
-  background-image: linear-gradient(355deg, #a80062 -15% -15%, #0035be 123% 123%, #0ff 148% 148%)
-  ;
+  background-image: linear-gradient(
+    355deg,
+    #a80062 -15% -15%,
+    #0035be 123% 123%,
+    #0ff 148% 148%
+  );
 }
-  
-
-
-
 
 body {
-  background-image: 
-  linear-gradient(85deg, #96004a -20% -20%, #0031bb 92% 92%, #0ff 148% 148%);
+  background-image: linear-gradient(
+    85deg,
+    #96004a -20% -20%,
+    #0031bb 92% 92%,
+    #0ff 148% 148%
+  );
 }
-  
-label{
+
+label {
   color: #e5eaf5;
 }
-  
-  
 
-
-h1, h2 {
+h1,
+h2 {
   font-family: "New Rocker", serif;
-  background-image: 
-    linear-gradient(85deg, #202400 48% 48%, #1f0a5e 92% 92%, #0ff 148% 148%);
+  background-image: linear-gradient(
+    85deg,
+    #202400 48% 48%,
+    #1f0a5e 92% 92%,
+    #0ff 148% 148%
+  );
 
   color: #b61941;
   padding: 16px;
@@ -39,8 +45,6 @@ h1, h2 {
 main {
   font-family: "New Rocker", serif;
   margin-top: -5px;
-  
-  
 }
 
 .homepage-main {
@@ -60,9 +64,8 @@ main {
 .navBar {
   background-color: #244242;
   height: auto;
-  width:auto;
-  
-}
+  width: auto;
+ 
 
 #logout {
   background-color: #84a59d;
@@ -106,3 +109,4 @@ main {
   transform: scale(1.02);
   transition: all 0.3s ease;
 }
+
