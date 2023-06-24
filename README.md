@@ -37,6 +37,17 @@ This full-stack application was developed so that users could come create and in
 
 ## Screenshots📸
 
+<img src='./images/Screenshot.png' width=800 height=700>
+
+<img src='./images/Screenshot2.png' width=800 height=700>
+
+<img src='./images/Screenshot3.png' width=800 height=700>
+
+<img src='./images/Screenshot4.png' width=800 height=700>
+
+<img src='./images/Screenshot5.png' width=800 height=700>
+
+
 ## Live URL📼
 
 ## Technologies Used✅
