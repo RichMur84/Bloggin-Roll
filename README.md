@@ -49,6 +49,11 @@ This full-stack application was developed so that users could come create and in
 
 
 ## Live URL📼
+[Click here to view Demo!](https://drive.google.com/file/d/16YoGadjt1hZlIBDAt-DDeMm6MV-ehwus/view)
+
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
+https://bloggin-roll-9ff400d7190b.herokuapp.com/
 
 ## Technologies Used✅
 
